@@ -1,4 +1,4 @@
-👋 Olá, eu sou Gustavo Gregatti. Product Designer e iniciante nesse imenso mundo da programação.
+👋 Hello Word! Eu sou Gustavo Gregatti. Product Designer e iniciante nesse imenso universo da programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
